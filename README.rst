@@ -77,7 +77,7 @@ Dot-Painted Mandalas
 
 Made with lots and lots of colorful dots (this is what we'll do today!).
 
-.. image:: https://i.etsystatic.com/25130933/r/il/fce27f/5955146425/il_570xN.5955146425_b87a.jpg
+.. image:: https://www.arttoart.net/cdn/shop/files/0012989_dot-painting-mandala-kit-16pk.webp?v=1726222288&width=713
    :alt: Dot-painted mandala
    :width: 70%
 

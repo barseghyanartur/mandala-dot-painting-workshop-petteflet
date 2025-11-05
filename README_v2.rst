@@ -95,3 +95,7 @@ Are you ready to become mandala artists? Let's get started! 🌟
 .. image:: https://m.media-amazon.com/images/I/910ESSuLdYL.jpg
    :alt: Dot-painting kit for mandalas
    :width: 60%
+
+Step 1
+------
+
