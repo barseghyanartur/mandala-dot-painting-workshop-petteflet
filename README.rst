@@ -5,6 +5,10 @@ Mandala Dot-Painting Workshop Petteflet
 Welcome to Mandala Dot-Painting! 🎨
 ===================================
 
+.. image:: https://cdn11.bigcommerce.com/s-x49po/images/stencil/1500x1500/products/120977/246577/1683782670932_m1__73390.1686995932.jpg?
+   :alt: Mandala
+   :width: 80%
+
 What is a Mandala?
 ==================
 
@@ -12,6 +16,10 @@ A mandala is a special kind of circular art that looks like a beautiful, colorfu
 The word "mandala" comes from an ancient language called **Sanskrit**, and it means **"circle"**.
 Mandalas are like magical circles filled with patterns that go round and round from the center —
 kind of like ripples in a pond when you drop a pebble in the water!
+
+.. image:: https://ih1.redbubble.net/image.5091669515.5173/flat,750x,075,f-pad,750x1000,f8f8f8.jpg
+   :alt: Mandala
+   :width: 80%
 
 Where Do Mandalas Come From?
 ============================
@@ -24,30 +32,9 @@ making incredibly detailed mandalas using colored sand, paint, or precious stone
 People in many different countries make mandalas – from Asia to Native American cultures.
 Each culture has its own special style and meaning!
 
-.. raw:: html
-
-   <center>
-       <video width="640" height="480" controls>
-           <source src="https://www.shutterstock.com/shutterstock/videos/1097155757/preview/stock-footage-transforming-ornamental-abstract-mandala-seamless-loop-footage.webm" type="video/webm">
-           Your browser does not support the video tag.
-       </video>
-   </center>
-
-   <center>
-       <video width="640" height="480" controls>
-           <source src="https://www.shutterstock.com/shutterstock/videos/1009997564/preview/stock-footage-transforming-ornamental-vintage-background-abstract-footage-in-art-nouveau-style-round-mandala.webm" type="video/webm">
-           Your browser does not support the video tag.
-       </video>
-   </center>
-
-   <center>
-       <video width="640" height="480" controls>
-           <source src="https://www.shutterstock.com/shutterstock/videos/3789554509/preview/stock-footage-golden-mandala-pattern-radiating-abstract-light-spiritual-festival-background-animation-for-yoga.webm" type="video/webm">
-           Your browser does not support the video tag.
-       </video>
-   </center>
-
-
+.. image:: https://www.publicdomainpictures.net/pictures/160000/nahled/ancient-caves-mandala.jpg
+   :alt: Ancient Mandala
+   :width: 80%
 
 Different Types of Mandalas
 ===========================
@@ -97,6 +84,32 @@ Made with lots and lots of colorful dots (this is what we'll do today!).
 .. image:: https://www.arttoart.net/cdn/shop/files/0012989_dot-painting-mandala-kit-16pk.webp?v=1726222288&width=713
    :alt: Dot-painted mandala
    :width: 70%
+
+Animated Mandalas
+-----------------
+
+.. raw:: html
+
+   <center>
+       <video width="640" height="480" controls>
+           <source src="https://www.shutterstock.com/shutterstock/videos/1097155757/preview/stock-footage-transforming-ornamental-abstract-mandala-seamless-loop-footage.webm" type="video/webm">
+           Your browser does not support the video tag.
+       </video>
+   </center>
+
+   <center>
+       <video width="640" height="480" controls>
+           <source src="https://www.shutterstock.com/shutterstock/videos/1009997564/preview/stock-footage-transforming-ornamental-vintage-background-abstract-footage-in-art-nouveau-style-round-mandala.webm" type="video/webm">
+           Your browser does not support the video tag.
+       </video>
+   </center>
+
+   <center>
+       <video width="640" height="480" controls>
+           <source src="https://www.shutterstock.com/shutterstock/videos/3789554509/preview/stock-footage-golden-mandala-pattern-radiating-abstract-light-spiritual-festival-background-animation-for-yoga.webm" type="video/webm">
+           Your browser does not support the video tag.
+       </video>
+   </center>
 
 Today's Adventure: Dot-Painting!
 ================================
