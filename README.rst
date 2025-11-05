@@ -13,14 +13,6 @@ The word "mandala" comes from an ancient language called **Sanskrit**, and it me
 Mandalas are like magical circles filled with patterns that go round and round from the center —
 kind of like ripples in a pond when you drop a pebble in the water!
 
-.. image:: https://theyogatique.com/wp-content/uploads/2023/10/Mandala-symbol-meaning-1.png
-   :alt: Mandala circle design
-   :width: 80%
-
-.. image:: https://kidsactivitiesblog.com/wp-content/uploads/2024/08/Mandala-Complete-Vert-Kids-Activities-Blog.jpg
-   :alt: Mandala for kids
-   :width: 70%
-
 Where Do Mandalas Come From?
 ============================
 
@@ -40,6 +32,21 @@ Each culture has its own special style and meaning!
            Your browser does not support the video tag.
        </video>
    </center>
+
+   <center>
+       <video width="640" height="480" controls>
+           <source src="https://www.shutterstock.com/shutterstock/videos/1009997564/preview/stock-footage-transforming-ornamental-vintage-background-abstract-footage-in-art-nouveau-style-round-mandala.webm" type="video/webm">
+           Your browser does not support the video tag.
+       </video>
+   </center>
+
+   <center>
+       <video width="640" height="480" controls>
+           <source src="https://www.shutterstock.com/shutterstock/videos/3789554509/preview/stock-footage-golden-mandala-pattern-radiating-abstract-light-spiritual-festival-background-animation-for-yoga.webm" type="video/webm">
+           Your browser does not support the video tag.
+       </video>
+   </center>
+
 
 
 Different Types of Mandalas
