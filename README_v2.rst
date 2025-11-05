@@ -1,31 +1,35 @@
-=======================================
-Mandala Dot-Painting Workshop Petteflet
-=======================================
-
 Welcome to Mandala Dot-Painting! 🎨
 ===================================
 
 What is a Mandala?
-==================
+------------------
 
 A mandala is a special kind of circular art that looks like a beautiful, colorful flower or snowflake!
-The word "mandala" comes from an ancient language called **Sanskrit**, and it means **"circle"**.
-Mandalas are like magical circles filled with patterns that go round and round from the center —
+The word "mandala" comes from an ancient language called Sanskrit, and it means "circle".
+Mandalas are like magical circles filled with patterns that go round and round from the center,
 kind of like ripples in a pond when you drop a pebble in the water!
 
 .. image:: https://theyogatique.com/wp-content/uploads/2023/10/Mandala-symbol-meaning-1.png
    :alt: Mandala circle design
    :width: 80%
 
+.. image:: https://www.pbs.org/wgbh/nova/teachers/activities/images/3006_tibet_mandala.gif
+   :alt: Animated mandala design
+   :width: 60%
+
 .. image:: https://kidsactivitiesblog.com/wp-content/uploads/2024/08/Mandala-Complete-Vert-Kids-Activities-Blog.jpg
    :alt: Mandala for kids
    :width: 70%
 
-Where Do Mandalas Come From?
-============================
+.. image:: https://cdn5.vectorstock.com/i/1000x1000/83/24/floral-round-arabesque-mandala-pattern-colorful-vector-35378324.jpg
+   :alt: Floral mandala pattern
+   :width: 70%
 
-Mandalas have been around for **thousands of years!**
-They started in faraway places like **India and Tibet**, where people created them as a special way
+Where Do Mandalas Come From?
+----------------------------
+
+Mandalas have been around for thousands of years!
+They started in faraway places like India and Tibet, where people created them as a special way
 to think peaceful thoughts and feel calm. Monks and artists would spend days or even weeks
 making incredibly detailed mandalas using colored sand, paint, or precious stones.
 
@@ -36,57 +40,43 @@ Each culture has its own special style and meaning!
    :alt: Tibetan sand mandala
    :width: 80%
 
+.. image:: https://www.oswego.edu/news/sites/www.oswego.edu.news/files/styles/panopoly_image_original/public/mandalawork_tibetanmonks.jpg
+   :alt: Tibetan monks creating a mandala
+   :width: 70%
+
 .. image:: https://data.tibettravel.org/assets/images/tibet-art/the-sand-mandala/monks-creating-mandala.webp
    :alt: Monks making a sand mandala
    :width: 80%
 
 Different Types of Mandalas
-===========================
+---------------------------
 
 There are so many kinds of mandalas! Some are:
 
-Sand Mandalas
--------------
-
-Made with colored sand (like a sand castle, but way fancier!)
-
-.. image:: https://www.oswego.edu/news/sites/www.oswego.edu.news/files/styles/panopoly_image_original/public/mandalawork_tibetanmonks.jpg
-   :alt: Monks creating sand mandala
-   :width: 80%
-
-Painted Mandalas
-----------------
-
-Created with brushes and paint.
+- **Sand mandalas** – made with colored sand (like a sand castle, but way fancier!)
+- **Painted mandalas** – created with brushes and paint
+- **Stone mandalas** – arranged with rocks and pebbles
+- **Dot-painted mandalas** – made with lots and lots of colorful dots (this is what we'll do today!)
 
 .. image:: https://i.etsystatic.com/25130933/r/il/e264de/3521002184/il_1080xN.3521002184_l69x.jpg
    :alt: Painted mandala
    :width: 70%
 
-Stone Mandalas
---------------
-
-Arranged with rocks and pebbles.
-
 .. image:: https://i.pinimg.com/736x/7f/25/00/7f2500829d39b2540277796957043f60.jpg
    :alt: Stone mandala with pebbles
    :width: 70%
-
-Dot-Painted Mandalas
---------------------
-
-Made with lots and lots of colorful dots (this is what we'll do today!).
 
 .. image:: https://i.etsystatic.com/25130933/r/il/fce27f/5955146425/il_570xN.5955146425_b87a.jpg
    :alt: Dot-painted mandala
    :width: 70%
 
 Today's Adventure: Dot-Painting!
-================================
+--------------------------------
 
-Today, we're going to create our very own mandalas using the **dot-painting technique!**
+Today, we're going to create our very own mandalas using the dot-painting technique!
 This means we'll use special tools to make tiny, colorful dots that form beautiful patterns.
-It's like connecting the dots, but **YOU** get to put the dots wherever you want to make your own unique design!
+It's like connecting the dots, but **YOU** get to put the dots wherever you want
+to make your own unique design!
 
 Are you ready to become mandala artists? Let's get started! 🌟
 
