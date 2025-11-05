@@ -68,7 +68,7 @@ Stone Mandalas
 
 Arranged with rocks and pebbles.
 
-.. image:: https://i.pinimg.com/736x/7f/25/00/7f2500829d39b2540277796957043f60.jpg
+.. image:: https://www.shutterstock.com/shutterstock/photos/2598527791/display_1500/stock-photo-an-intricate-mandala-pattern-created-with-stones-arranged-in-a-kaleidoscope-style-forming-a-2598527791.jpg
    :alt: Stone mandala with pebbles
    :width: 70%
 
