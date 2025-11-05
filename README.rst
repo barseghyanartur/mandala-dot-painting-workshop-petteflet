@@ -32,13 +32,15 @@ making incredibly detailed mandalas using colored sand, paint, or precious stone
 People in many different countries make mandalas – from Asia to Native American cultures.
 Each culture has its own special style and meaning!
 
-.. image:: https://upload.wikimedia.org/wikipedia/commons/d/da/Chenrezig_Sand_Mandala.jpg
-   :alt: Tibetan sand mandala
-   :width: 80%
+.. raw:: html
 
-.. image:: https://data.tibettravel.org/assets/images/tibet-art/the-sand-mandala/monks-creating-mandala.webp
-   :alt: Monks making a sand mandala
-   :width: 80%
+   <center>
+       <video width="640" height="480" controls>
+           <source src="https://www.shutterstock.com/shutterstock/videos/1097155757/preview/stock-footage-transforming-ornamental-abstract-mandala-seamless-loop-footage.webm" type="video/webm">
+           Your browser does not support the video tag.
+       </video>
+   </center>
+
 
 Different Types of Mandalas
 ===========================
@@ -49,6 +51,14 @@ Sand Mandalas
 -------------
 
 Made with colored sand (like a sand castle, but way fancier!)
+
+.. image:: https://upload.wikimedia.org/wikipedia/commons/d/da/Chenrezig_Sand_Mandala.jpg
+   :alt: Tibetan sand mandala
+   :width: 80%
+
+.. image:: https://data.tibettravel.org/assets/images/tibet-art/the-sand-mandala/monks-creating-mandala.webp
+   :alt: Monks making a sand mandala
+   :width: 80%
 
 .. image:: https://www.oswego.edu/news/sites/www.oswego.edu.news/files/styles/panopoly_image_original/public/mandalawork_tibetanmonks.jpg
    :alt: Monks creating sand mandala
