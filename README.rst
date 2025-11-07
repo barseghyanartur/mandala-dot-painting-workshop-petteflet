@@ -175,3 +175,19 @@ Ready to become mandala artists? Let's get started! 🌟
    :alt: What we're gonna make
    :class: r-stretch
    :align: center
+
+License
+=======
+
+This project is licensed under the terms of the
+Creative Commons Attribution-NonCommercial 4.0 International Public
+License (CC-BY-NC 4.0).
+
+For the full license terms, see the
+`LICENSE <https://creativecommons.org/licenses/by-nc/4.0/>`_ file.
+
+Author
+======
+
+Copyright (c) 2025, Artur Barseghyan <artur.barseghyan@gmail.com>.
+All Rights Reserved.
