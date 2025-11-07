@@ -1,8 +1,8 @@
 =======================================
-Mandala Dot-Painting Workshop Petteflet
+Mandala dot-painting workshop Petteflet
 =======================================
 
-Welcome to Mandala Dot-Painting! 🎨
+Welcome to mandala dot-painting! 🎨
 ===================================
 
 .. image:: images/00_welcome_to_the_workshop.jpg
@@ -11,7 +11,7 @@ Welcome to Mandala Dot-Painting! 🎨
    :align: center
 
 
-What is a Mandala?
+What is a mandala?
 ==================
 
 - A mandala is a colorful circle of patterns, like a flower or snowflake.
@@ -26,7 +26,7 @@ What is a Mandala?
    :class: r-stretch
    :align: center
 
-Where Do Mandalas Come From?
+Where do they come from?
 ============================
 
 - Mandalas have existed for thousands of years.
@@ -42,15 +42,15 @@ Where Do Mandalas Come From?
    :class: r-stretch
    :align: center
 
-Different Types of Mandalas
+Different types of mandalas
 ===========================
 
-There are so many kinds of mandalas!
+There are many kinds of mandalas
 
-Sand Mandalas
+Sand mandalas
 -------------
 
-Made with colored sand (like a sand castle, but way fancier!)
+Made with colored sand (like a sand castle)
 
 .. image:: images/03_a_chenrezig_sand_mandala.jpg
    :alt: Tibetan sand mandala
@@ -65,37 +65,37 @@ Made with colored sand (like a sand castle, but way fancier!)
    :class: r-stretch
    :align: center
 
-Painted Mandalas
+Painted mandalas
 ----------------
 
-Created with brushes and paint.
+Created with brushes and paint
 
 .. image:: images/04_painted_mandalas.webp
    :alt: Painted mandala
    :class: r-stretch
    :align: center
 
-Stone Mandalas
+Stone mandalas
 --------------
 
-Arranged with rocks and pebbles.
+Arranged with rocks and pebbles
 
 .. image:: images/05_stone_mandala.png
    :alt: Stone mandala with pebbles
    :class: r-stretch
    :align: center
 
-Dot-Painted Mandalas
+Dot-painted mandalas
 --------------------
 
-Made with lots and lots of colorful dots (this is what we'll do today!).
+Made with lots and lots of colorful dots
 
 .. image:: images/06_dot_painting_mandala.webp
    :alt: Dot-painted mandala
    :class: r-stretch
    :align: center
 
-Animated Mandalas
+Animated mandalas
 -----------------
 
 .. raw:: html
@@ -131,17 +131,17 @@ Animated Mandalas
        </video>
    </center>
 
-Today's Adventure: Dot-Painting!
+Today's adventure: dot-painting!
 ================================
 
-Today, we’ll make our own mandalas using the dot-painting technique!
-We’ll use tools to create tiny colorful dots that form beautiful patterns.
+Today, we'll make our own mandalas using the dot-painting technique!
+We'll use tools to create tiny colorful dots that form beautiful patterns.
 You can place the dots however you like to make your own unique design.
 
 .. revealjs-break::
     :notitle:
 
-Ready to be mandala artists? Let’s begin! 🌟
+Ready to become mandala artists? 🌟
 
 .. image:: images/steps/step_6.jpg
    :alt: What we're gonna make
