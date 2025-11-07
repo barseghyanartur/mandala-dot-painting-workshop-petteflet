@@ -70,7 +70,7 @@ Painted mandalas
 
 Created with brushes and paint
 
-.. image:: images/04_painted_mandalas.webp
+.. image:: images/04_painted_mandalas.png
    :alt: Painted mandala
    :class: r-stretch
    :align: center
@@ -90,7 +90,7 @@ Dot-painted mandalas
 
 Made with lots and lots of colorful dots
 
-.. image:: images/06_dot_painting_mandala.webp
+.. image:: images/06_dot_painting_mandala.png
    :alt: Dot-painted mandala
    :class: r-stretch
    :align: center
