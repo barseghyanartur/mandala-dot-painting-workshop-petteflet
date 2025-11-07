@@ -5,7 +5,7 @@ Mandala dot-painting workshop Petteflet
 Welcome to mandala dot-painting! 🎨
 ===================================
 
-.. image:: images/00_welcome_to_the_workshop.jpg
+.. image:: images/00_welcome_to_the_workshop.png
    :alt: Mandala
    :class: r-stretch
    :align: center
@@ -21,7 +21,7 @@ What is a mandala?
 .. revealjs-break::
     :notitle:
 
-.. image:: images/01_what_is_mandala.jpg
+.. image:: images/01_what_is_mandala.png
    :alt: Mandala
    :class: r-stretch
    :align: center
@@ -37,7 +37,7 @@ Where do they come from?
 .. revealjs-break::
     :notitle:
 
-.. image:: images/02_ancient_caves_mandala.jpg
+.. image:: images/02_ancient_caves_mandala.png
    :alt: Ancient Mandala
    :class: r-stretch
    :align: center
@@ -52,7 +52,7 @@ Sand mandalas
 
 Made with colored sand (like a sand castle)
 
-.. image:: images/03_a_chenrezig_sand_mandala.jpg
+.. image:: images/03_a_chenrezig_sand_mandala.png
    :alt: Tibetan sand mandala
    :class: r-stretch
    :align: center

@@ -5,7 +5,7 @@ Mandala stip-schilderworkshop Petteflet
 Welkom bij mandala stip-schilderen! 🎨
 ======================================
 
-.. image:: images/00_welcome_to_the_workshop.jpg
+.. image:: images/00_welcome_to_the_workshop.png
    :alt: Mandala
    :class: r-stretch
    :align: center
@@ -21,7 +21,7 @@ Wat is een mandala?
 .. revealjs-break::
     :notitle:
 
-.. image:: images/01_what_is_mandala.jpg
+.. image:: images/01_what_is_mandala.png
    :alt: Mandala
    :class: r-stretch
    :align: center
@@ -37,7 +37,7 @@ Waar komen ze vandaan?
 .. revealjs-break::
     :notitle:
 
-.. image:: images/02_ancient_caves_mandala.jpg
+.. image:: images/02_ancient_caves_mandala.png
    :alt: Oude Mandala
    :class: r-stretch
    :align: center
@@ -52,7 +52,7 @@ Zandmandala’s
 
 Gemaakt met gekleurd zand (zoals een zandkasteel)
 
-.. image:: images/03_a_chenrezig_sand_mandala.jpg
+.. image:: images/03_a_chenrezig_sand_mandala.png
    :alt: Tibetaanse zandmandala
    :class: r-stretch
    :align: center
