@@ -1,0 +1,15 @@
+black
+doc8
+fake.py
+isort
+mypy
+pydantic
+pytest
+pytest-codeblock
+ruff
+sphinx
+sphinx-design
+sphinx-no-pragma
+sphinx-revealjs
+sphinx-rtd-theme
+sphinx-toolbox
