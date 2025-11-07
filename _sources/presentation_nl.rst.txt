@@ -134,7 +134,7 @@ Bewegende mandala’s
 Natuur mandala's
 ----------------
 
-.. image:: images/alt/alt_1.webp
+.. image:: images/alt/alt_1.png
    :alt: Natuur
    :class: r-stretch
    :align: center
@@ -142,7 +142,7 @@ Natuur mandala's
 .. revealjs-break::
     :notitle:
 
-.. image:: images/alt/alt_2.webp
+.. image:: images/alt/alt_2.png
    :alt: Natuur
    :class: r-stretch
    :align: center
@@ -150,7 +150,7 @@ Natuur mandala's
 .. revealjs-break::
     :notitle:
 
-.. image:: images/alt/alt_3.webp
+.. image:: images/alt/alt_3.png
    :alt: Natuur
    :class: r-stretch
    :align: center
@@ -158,7 +158,7 @@ Natuur mandala's
 .. revealjs-break::
     :notitle:
 
-.. image:: images/alt/alt_4.webp
+.. image:: images/alt/alt_4.png
    :alt: Natuur
    :class: r-stretch
    :align: center
@@ -166,14 +166,14 @@ Natuur mandala's
 .. revealjs-break::
     :notitle:
 
-.. image:: images/alt/alt_5.webp
+.. image:: images/alt/alt_5.png
    :alt: Natuur
    :class: r-stretch
    :align: center
 .. revealjs-break::
     :notitle:
 
-.. image:: images/alt/alt_6.webp
+.. image:: images/alt/alt_6.png
    :alt: Natuur
    :class: r-stretch
    :align: center
