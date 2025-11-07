@@ -131,6 +131,53 @@ Bewegende mandala’s
        </video>
    </center>
 
+Natuur mandala's
+----------------
+
+.. image:: images/alt/alt_1.webp
+   :alt: Natuur
+   :class: r-stretch
+   :align: center
+
+.. revealjs-break::
+    :notitle:
+
+.. image:: images/alt/alt_2.webp
+   :alt: Natuur
+   :class: r-stretch
+   :align: center
+
+.. revealjs-break::
+    :notitle:
+
+.. image:: images/alt/alt_3.webp
+   :alt: Natuur
+   :class: r-stretch
+   :align: center
+
+.. revealjs-break::
+    :notitle:
+
+.. image:: images/alt/alt_4.webp
+   :alt: Natuur
+   :class: r-stretch
+   :align: center
+
+.. revealjs-break::
+    :notitle:
+
+.. image:: images/alt/alt_5.webp
+   :alt: Natuur
+   :class: r-stretch
+   :align: center
+.. revealjs-break::
+    :notitle:
+
+.. image:: images/alt/alt_6.webp
+   :alt: Natuur
+   :class: r-stretch
+   :align: center
+
 Ons avontuur van vandaag: stippen! 🌈
 =====================================
 
