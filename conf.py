@@ -7,9 +7,9 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = (
-    "Create awesome interactive presentations using reStructuredText and Sphinx"
+    "Mandala Dot-Painting Workshop Petteflet"
 )
-copyright = "2024, Artur Barseghyan"
+copyright = "2025, Artur Barseghyan"
 author = "Artur Barseghyan"
 
 # -- General configuration ---------------------------------------------------
