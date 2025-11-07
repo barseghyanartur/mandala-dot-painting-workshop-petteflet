@@ -70,7 +70,7 @@ Geschilderde mandala’s
 
 Gemaakt met kwasten en verf
 
-.. image:: images/04_painted_mandalas.webp
+.. image:: images/04_painted_mandalas.png
    :alt: Geschilderde mandala
    :class: r-stretch
    :align: center
@@ -90,7 +90,7 @@ Stip-mandala’s
 
 Gemaakt met héél veel kleurrijke stipjes
 
-.. image:: images/06_dot_painting_mandala.webp
+.. image:: images/06_dot_painting_mandala.png
    :alt: Stip-mandala
    :class: r-stretch
    :align: center
