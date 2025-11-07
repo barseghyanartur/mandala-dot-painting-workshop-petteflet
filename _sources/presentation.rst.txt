@@ -131,6 +131,53 @@ Animated mandalas
        </video>
    </center>
 
+Nature mandalas
+---------------
+
+.. image:: images/alt/alt_1.webp
+   :alt: Nature
+   :class: r-stretch
+   :align: center
+
+.. revealjs-break::
+    :notitle:
+
+.. image:: images/alt/alt_2.webp
+   :alt: Nature
+   :class: r-stretch
+   :align: center
+
+.. revealjs-break::
+    :notitle:
+
+.. image:: images/alt/alt_3.webp
+   :alt: Nature
+   :class: r-stretch
+   :align: center
+
+.. revealjs-break::
+    :notitle:
+
+.. image:: images/alt/alt_4.webp
+   :alt: Nature
+   :class: r-stretch
+   :align: center
+
+.. revealjs-break::
+    :notitle:
+
+.. image:: images/alt/alt_5.webp
+   :alt: Nature
+   :class: r-stretch
+   :align: center
+.. revealjs-break::
+    :notitle:
+
+.. image:: images/alt/alt_6.webp
+   :alt: Nature
+   :class: r-stretch
+   :align: center
+
 Today's adventure: dot-painting!
 ================================
 
